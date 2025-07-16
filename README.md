@@ -1,5 +1,5 @@
 ## Olá 👋  
-Me sou o Renan, atualmente curso o 7º semestre de Engenharia de Software e estou estagiando no Itaú, na área de enquadramento de fundos de previdência privada.
+Sou o Renan, atualmente curso o 7º semestre de Engenharia de Software e estou estagiando no Itaú, na área de enquadramento de fundos de previdência privada.
 
 Criei este perfil para armazenar os projetos que desenvolvo no dia a dia e também como uma forma de compartilhar ideias e trocar experiências com outras pessoas.
 
