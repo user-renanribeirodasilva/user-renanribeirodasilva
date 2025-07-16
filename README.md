@@ -13,6 +13,6 @@ Sinta-se à vontade para explorar meus repositórios. Obrigado pela visita!
 ### 🛠 Tecnologias
 
 [<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="40" height="40" alt="Excel"/>](https://github.com/user-renanribeirodasilva/repositorio-excel)
-[<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>](https://github.com/user-renanribeirodasilva/repositorio-powerbi)
+[<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>](https://github.com/user-renanribeirodasilva/monitoramento-fundos-imobiliarios)
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>](https://github.com/user-renanribeirodasilva)
 [<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt="SQL"/>](https://github.com/user-renanribeirodasilva)
