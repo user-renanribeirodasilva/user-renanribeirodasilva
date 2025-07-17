@@ -16,3 +16,5 @@ Sinta-se à vontade para explorar meus repositórios. Obrigado pela visita!
 [<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>](https://github.com/user-renanribeirodasilva/monitoramento-fundos-imobiliarios)
 [<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40" alt="Python"/>](https://github.com/user-renanribeirodasilva)
 [<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt="SQL"/>](https://github.com/user-renanribeirodasilva)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="40" height="40" alt="GitHub"/>](https://github.com/user-renanribeirodasilva)
+
